@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\bin\Debug\net6.0\zadacha_4 fibonacci.exe
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\bin\Debug\net6.0\zadacha_4 fibonacci.deps.json
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\bin\Debug\net6.0\zadacha_4 fibonacci.runtimeconfig.json
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\bin\Debug\net6.0\zadacha_4 fibonacci.dll
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\bin\Debug\net6.0\zadacha_4 fibonacci.pdb
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.dll
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\refint\zadacha_4 fibonacci.dll
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.pdb
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\zadacha_4 fibonacci.genruntimeconfig.cache
+C:\Users\MSI\Desktop\C#\lekcii\lekciya_4\zadacha_4 fibonacci\obj\Debug\net6.0\ref\zadacha_4 fibonacci.dll
